@@ -7,9 +7,9 @@ export const data = [
     },
      {
         'id':2,
-        'name':'Savage Love Rose Package',
+         'name':'Red & White Beauty Bouquet',
         'price':1800,
-       ' image_url':'https://cdn.shopify.com/s/files/1/3103/5874/products/savage-love-LINDT-red_1_280x.jpg?v=1670073401'
+         'image_url':'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTZEa5RQrLPin7j2FK6ICBf2Wz4L1bUYFE1WAH-bdAPuOIM488KNGbKZS02iCPd7lR6Wp0NYemgItFV9avD5eFf-xyZJE9ooFv654_7bE0&usqp=CAc'
     },
      {
         'id':3,
