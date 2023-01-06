@@ -5,11 +5,11 @@ export const data = [
         'price':1800,
         'image_url':'https://cdn.shopify.com/s/files/1/3103/5874/products/Premium-Fairtrade-Red-Roses_1_280x.jpg?v=1655964983'
     },
-     {
-        'id':2,
-         'name':'Red & White Beauty Bouquet',
-        'price':1800,
-         'image_url':'https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTZEa5RQrLPin7j2FK6ICBf2Wz4L1bUYFE1WAH-bdAPuOIM488KNGbKZS02iCPd7lR6Wp0NYemgItFV9avD5eFf-xyZJE9ooFv654_7bE0&usqp=CAc'
+    {
+        'id': 2,
+        'name': 'The Leilani',
+        'price': 1800,
+        'image_url': 'https://cdn.shopify.com/s/files/1/3103/5874/products/429296631571f11f9e9bf9a59e88c5d4_280x.jpg?v=1631052352'
     },
      {
         'id':3,
@@ -41,12 +41,13 @@ export const data = [
         'price':1800,
         'image_url':'https://cdn.shopify.com/s/files/1/3103/5874/products/Red-Roses-and-White-Mums-Bouquet_ed6bddee-b723-4b0f-a41c-d2cb7615bf9c_280x.jpg?v=1649331823'
     },
-     {
-        'id':8,
-        'name':'The Leilani',
-        'price':1800,
-        'image_url':'https://cdn.shopify.com/s/files/1/3103/5874/products/429296631571f11f9e9bf9a59e88c5d4_280x.jpg?v=1631052352'
+    {
+        'id': 8,
+        'name': 'Savage Love Rose',
+        'price': 1800,
+        'image_url': 'https://cdn.shopify.com/s/files/1/3103/5874/products/savage-love-LINDT-red_1_280x.jpg?v=1670073401'
     },
+    
      {
         'id':9,
         'name':'The Zahara',
