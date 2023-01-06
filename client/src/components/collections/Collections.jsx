@@ -13,7 +13,7 @@ const Collections = () => {
                 <div className="card-body">
                   <div className="d-flex justify-content-between">
                     <p className="card-text">{item.name}</p>
-                    <p className="fw-bold">Ksh. {item.price}</p>
+                    {/* <p className="fw-bold">Ksh. {item.price}</p> */}
                   </div>
                 </div>
               </div>
