@@ -12,7 +12,7 @@ const Home = () => {
         Plus, our flowers are always beautifully packaged by the best florists
         in Nairobi and can be delivered same day or next day all over Kenya. So
         what are you waiting for? Say I love you better with a bouquet of
-        flowers today!
+        flowers today.
       </p>
     </div>
   );
