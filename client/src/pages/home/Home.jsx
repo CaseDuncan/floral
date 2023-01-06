@@ -1,5 +1,4 @@
 import React from "react";
-import bgImage from "../../assets/bg.png";
 import "./home.css";
 
 const Home = () => {
