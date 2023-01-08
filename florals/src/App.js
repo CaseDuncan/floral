@@ -1,4 +1,3 @@
-import { useState } from "react";
 import { Routes, Route } from "react-router-dom";
 import Collections from "./components/collections/Collections";
 import NavBar from "./components/navbar/NavBar";
@@ -15,7 +14,7 @@ function App() {
         <Route path="/collections" exact element={<Collections />} />
         <Route path="/contact" element={<Contact />} />
       </Routes>
-      <Footer/>
+      <Footer />
     </div>
   );
 }
